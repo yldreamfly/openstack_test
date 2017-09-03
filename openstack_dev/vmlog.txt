@@ -1,0 +1,31 @@
++-----------------------------+-----------------------------------------------+
+| Field                       | Value                                         |
++-----------------------------+-----------------------------------------------+
+| OS-DCF:diskConfig           | MANUAL                                        |
+| OS-EXT-AZ:availability_zone |                                               |
+| OS-EXT-STS:power_state      | NOSTATE                                       |
+| OS-EXT-STS:task_state       | scheduling                                    |
+| OS-EXT-STS:vm_state         | building                                      |
+| OS-SRV-USG:launched_at      | None                                          |
+| OS-SRV-USG:terminated_at    | None                                          |
+| accessIPv4                  |                                               |
+| accessIPv6                  |                                               |
+| addresses                   |                                               |
+| adminPass                   | znBmARpEWTo6                                  |
+| config_drive                |                                               |
+| created                     | 2017-07-14T09:37:38Z                          |
+| flavor                      | m1.medium (3)                                 |
+| hostId                      |                                               |
+| id                          | 465c7669-37a1-4a42-9c26-60caeb85b86b          |
+| image                       | tomcat (8ef5a99a-ea7f-4921-afc2-d4f934cc3a05) |
+| key_name                    | None                                          |
+| name                        | OPS-TEST-tomcat                               |
+| progress                    | 0                                             |
+| project_id                  | cef7329008ec46f1a57579f8959fb2ab              |
+| properties                  |                                               |
+| security_groups             | name='rnd_dev'                                |
+| status                      | BUILD                                         |
+| updated                     | 2017-07-14T09:37:37Z                          |
+| user_id                     | 13088ab0dd3b4f7ca1c77798ec0460ca              |
+| volumes_attached            |                                               |
++-----------------------------+-----------------------------------------------+
